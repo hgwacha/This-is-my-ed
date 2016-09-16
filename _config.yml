@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               Cartulary of Preémontreé
+tagline:             'Act 343'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://oncomouse.github.io'
-baseurl:             '/ed'
+url:                 'http://hgwacha.github.io'
+baseurl:             '/This-is-my-ed'
 
 # About/contact
 author:
