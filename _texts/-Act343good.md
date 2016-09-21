@@ -5,11 +5,11 @@ author: unknown scribe
 source: Soissons, Bibliothèque municipale, MS 7
 ---
 
--CCCXLIII-
+###  -CCCXLIII-
 
-1137
+####  1137
 
-Simon, Évêque de Noyon, notifie la décision prise par Yvon, seigneur de Nesles, et par les nobles de cette terre, à la demande de Raoul, comte de Vermandois, d'autoriser Eudes de Lanchy, fils de Waldin, sa mère et sa soeur qui étaient rentrés à l'abbaye de Prémontré, à laisser à  la dite abbaye la moitié seulement de leur héritage, le reste devant aller à Hescela, soeur mariée dudit Eudes.
+*Simon, Évêque de Noyon, notifie la décision prise par Yvon, seigneur de Nesles, et par les nobles de cette terre, à la demande de Raoul, comte de Vermandois, d'autoriser Eudes de Lanchy, fils de Waldin, sa mère et sa soeur qui étaient rentrés à l'abbaye de Prémontré, à laisser à  la dite abbaye la moitié seulement de leur héritage, le reste devant aller à Hescela, soeur mariée dudit Eudes.*
 
 Simon, bishop of Noyon, declares the decision taken by Yves, Lord of Nesles, and by the nobles of the land, at the request of Raoul, Count of Vermandois, to authorize Odo of Lanchy, son of Baudoin, his mother and sister, who had entered the abbey of Prémontré, to leave to the said abbey only the half of their inheritance, the rest of it going to Hescela, the married sister of the said Odo.
 
