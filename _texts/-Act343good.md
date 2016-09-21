@@ -5,7 +5,7 @@ author: unknown scribe
 source: Soissons, Bibliothèque municipale, MS 7
 ---
 
-<center>###  -CCCXLIII-</center>
+###  <center>-CCCXLIII-</center>
 
 <center>####  1137</center>
 
